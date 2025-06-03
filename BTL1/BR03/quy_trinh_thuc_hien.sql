@@ -1,4 +1,4 @@
-mình đã tạo user va cap quyen cho cac user manager, employee, director nhu sau, tuong tu nhu chi nhanh 1 va 2
+--CN3
 -- TẠO USER MANAGER
 CREATE USER MANAGER IDENTIFIED BY 123;
 
